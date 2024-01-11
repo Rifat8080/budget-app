@@ -117,7 +117,7 @@ sh
 
 - GitHub: [@Rifat8080](https://github.com/Rifat8080)
 - Twitter: [@mdmahadirifat98](https://twitter.com/mdmahadirifat98)
-- LinkedIn: [md-mahadi-hasan-rifat-8b7851265](https://www.linkedin.com/in/md-mahadi-hasan-rifat-8b7851265/)
+- LinkedIn: [md-mahadi-hasan-rifat](https://www.linkedin.com/in/md-mahadi-hasan-rifat-8b7851265/)
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
