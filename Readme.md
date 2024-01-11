@@ -124,8 +124,10 @@ run the result on the terminal through:
 
 ### Run tests
 
-To run tests, run the following command:
-- rspec spec
+To run tests, run the following command in terminal:
+```sh
+  rspec spec
+```
 
 <!-- AUTHORS -->
 
