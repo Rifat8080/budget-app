@@ -21,6 +21,8 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Install this project with:](#install-this-project-with)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -108,6 +110,22 @@ sh
   bundle install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Usage
+
+To run the project, execute the following command:
+run the result on the terminal through:
+
+```sh
+  rails server
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Run tests
+
+To run tests, run the following command:
+- rspec spec
 
 <!-- AUTHORS -->
 
