@@ -21,6 +21,8 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Install this project with:](#install-this-project-with)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -67,8 +69,8 @@ Key features of the application 🦖
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://budget-app-ugvx.onrender.com/)
-- [Video Presenation]()
+- Coming Soon [Live Demo Link]()
+- [Video Presenation](https://www.loom.com/share/0e5036bddc2a40ac8a3ec3413eb09980)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,6 +110,24 @@ sh
   bundle install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Usage
+
+To run the project, execute the following command:
+run the result on the terminal through:
+
+```sh
+  rails server
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Run tests
+
+To run tests, run the following command in terminal:
+```sh
+  rspec spec
+```
 
 <!-- AUTHORS -->
 
