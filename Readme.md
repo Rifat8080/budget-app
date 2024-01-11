@@ -142,7 +142,7 @@ Features will be added to the project 🦖
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Chandan-devs-tech/budget-app/issues).
+Feel free to check the [issues page](https://github.com/Rifat8080/budget-app/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,6 +167,6 @@ If you like  this project, show your support by giving a star ⭐️, thanks in 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/Rifat8080/budget-app/blob/features/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
