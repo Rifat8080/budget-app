@@ -2,7 +2,9 @@
   <p style="color: #fff" class='notice'><%= notice %></p>
   <div class="transacs-navbar">
     <div class="nav-title">
-      <%= image_tag('hamburger.png', class: 'ham-btn', alt: 'Hamburger') %>
+      <%= link_to categories_path, class: 'add-transac-text' do %>
+        <i class="fa fa-arrow-left back-btn"></i> 
+      <% end %>
       <h1 class="nav-text">Transactions</h1>
       <%= image_tag('search.png', class: 'search-btn', alt: 'Search') %>
     </div>
@@ -33,6 +35,6 @@
 
   <div class="add-transac-btn">
     <%= link_to "Add transaction", new_category_transac_path(@category), class: 'add-transac-text' %>
-    <%= link_to "Back to catgories", categories_path, class: 'add-transac-text' %>
+   
   </div>
 </div>
