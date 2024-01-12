@@ -69,7 +69,7 @@ Key features of the application 🦖
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Coming Soon [Live Demo Link]()
+- [Live Demo Link](https://budget-app-ror-web.onrender.com/)
 - [Video Presenation](https://www.loom.com/share/0e5036bddc2a40ac8a3ec3413eb09980)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
